@@ -2,17 +2,19 @@ Chardet: The Universal Character Encoding Detector
 --------------------------------------------------
 
 .. image:: https://github.com/chardet/chardet/actions/workflows/test.yml/badge.svg
-   :alt: Build status
    :target: https://github.com/chardet/chardet/actions/workflows/test.yml
+   :alt: Build status
 
 .. image:: https://img.shields.io/coveralls/chardet/chardet/stable.svg
    :target: https://coveralls.io/r/chardet/chardet
+   :alt: Coveralls
 
 .. image:: https://img.shields.io/pypi/v/chardet.svg
    :target: https://warehouse.python.org/project/chardet/
    :alt: Latest version on PyPI
 
 .. image:: https://img.shields.io/pypi/l/chardet.svg
+   :target: https://github.com/corneliusroemer/chardet/blob/main/LICENSE
    :alt: License
 
 
