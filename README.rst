@@ -1,9 +1,9 @@
 Chardet: The Universal Character Encoding Detector
 --------------------------------------------------
 
-.. image:: https://img.shields.io/travis/chardet/chardet/stable.svg
+.. image:: https://github.com/chardet/chardet/actions/workflows/test.yml/badge.svg
    :alt: Build status
-   :target: https://travis-ci.org/chardet/chardet
+   :target: https://github.com/chardet/chardet/actions/workflows/test.yml
 
 .. image:: https://img.shields.io/coveralls/chardet/chardet/stable.svg
    :target: https://coveralls.io/r/chardet/chardet
